@@ -40,6 +40,25 @@ Aplikasi **Sistem Pengelolaan Sumber Daya Kampus** adalah sebuah sistem berbasis
 
 ![image](https://github.com/user-attachments/assets/e7ddbdc1-2ef7-4f30-957b-7ca1b76f2455)
 
+# Menu Mahasiswa
+
+## Tampilan Menu Login Mahasiswa
+
+![image](https://github.com/user-attachments/assets/9648bd43-c2d6-4b87-bb2a-0a94cc20d275)
+
+## Tampilan Menu Pinjam Ruangan (Mahasiswa)
+
+![image](https://github.com/user-attachments/assets/4786c455-116e-49e9-b289-1102387d3c4b)
+
+## Tampilan Menu Pinjam Barang (Mahasiswa)
+
+![image](https://github.com/user-attachments/assets/b7fc081b-6545-4f57-a757-f1e25eb9d1e9)
+
+## Tampilan Menu Riwayat Peminjaman (Mahasiswa)
+
+![image](https://github.com/user-attachments/assets/bfeec92f-ed82-4f75-bb18-a9f0853d770e)
+
+
 
 
 
