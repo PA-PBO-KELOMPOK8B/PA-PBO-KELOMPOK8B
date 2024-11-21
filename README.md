@@ -10,13 +10,22 @@
 
 **4.	Nurul Asmita (2309116073)**
 
-## Tampilan Awal Aplikasi
-
-![image](https://github.com/user-attachments/assets/7e315733-e581-4b0a-8b59-5f7c69c37d8d)
-
 ## Penjelasan Aplikasi
 
 Aplikasi **Sistem Pengelolaan Sumber Daya Kampus** adalah sebuah sistem berbasis Java yang dirancang untuk mempermudah pengelolaan sumber daya kampus seperti ruangan dan barang. Aplikasi ini memiliki dua jenis pengguna, yaitu **Staff** dan **Mahasiswa**, dengan akses dan fitur yang disesuaikan berdasarkan kebutuhan masing-masing. Melalui fitur **Login Staff**, pengguna dari pihak staf dapat mengelola data sumber daya kampus, seperti menambah, mengedit, atau menghapus data ruangan dan barang, serta memberikan persetujuan terhadap permintaan peminjaman yang diajukan mahasiswa. Di sisi lain, melalui fitur **Login Mahasiswa**, mahasiswa dapat mengajukan peminjaman ruangan atau barang, melakukan pencarian dan penyortiran berdasarkan kriteria tertentu, serta memantau status permintaan peminjaman mereka. Aplikasi ini juga dilengkapi dengan fitur riwayat peminjaman untuk mempermudah pelacakan data dan status peminjaman yang telah dilakukan. Dengan antarmuka yang sederhana dan fitur yang terorganisir, aplikasi ini bertujuan untuk meningkatkan efisiensi dalam pengelolaan sumber daya kampus dan memberikan kemudahan akses bagi penggunanya.
+
+### Tampilan Awal Aplikasi
+
+![image](https://github.com/user-attachments/assets/7e315733-e581-4b0a-8b59-5f7c69c37d8d)
+
+### Tampilan Menu Login Staff
+
+![image](https://github.com/user-attachments/assets/2f264513-f3d0-44f5-b625-b79581dcd6f8)
+
+### Tampilan Menu Staff
+
+
+
 
 
 
