@@ -18,6 +18,8 @@ Aplikasi **Sistem Pengelolaan Sumber Daya Kampus** adalah sebuah sistem berbasis
 
 ![image](https://github.com/user-attachments/assets/7e315733-e581-4b0a-8b59-5f7c69c37d8d)
 
+# Menu Staff
+
 ## Tampilan Menu Login Staff
 
 ![image](https://github.com/user-attachments/assets/2f264513-f3d0-44f5-b625-b79581dcd6f8)
